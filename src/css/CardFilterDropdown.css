@@ -1,0 +1,13 @@
+.select-style {
+  background-color: #1f1d2b;
+  padding: 8px;
+  font-size: 16px;
+  border-radius: 5px;
+  color: white;
+  width: 100px;
+  height: 36px;
+}
+
+.dropdown{
+    margin: 10px;
+}
