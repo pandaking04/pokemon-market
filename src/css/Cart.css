@@ -90,3 +90,30 @@
   display: flex;
   justify-content: space-between;
 }
+
+@media (max-width: 767px) {
+
+  .cart-container{
+    width: 100%;
+    margin: 0 auto;
+    
+  }
+
+  .cart-content {
+    max-height: 150px;
+    overflow-y: auto;
+  }
+
+
+  .close-button {
+    margin-top: 10px;
+    
+  }
+  
+ 
+  .btnContainer {
+    width: 100%; /* ปรับขนาดของ element ให้เต็ม container */
+  }
+
+  
+}
